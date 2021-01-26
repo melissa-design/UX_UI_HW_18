@@ -31,13 +31,13 @@ html {
 
 @media screen and (max-width: 360px) {
     html {
-        font-size: 11px;
+        font-size: 12px;
     }
 }
 
 @media screen and (min-width: 361px) and (max-width: 864px) {
     html {
-        font-size: 13px;
+        font-size: 14px;
     }
 }
 
@@ -108,39 +108,6 @@ li,
 
 strong {
     font-weight: bold;
-}
-
-p {
-    font-size: 1rem;
-}
-
-.body1 {
-    font-size: 1.33rem;
-}
-
-.body2 {
-    font-size: 1.11rem;
-}
-
-.body3 {
-    font-size: 1rem;
-}
-
-.subtitle1 {
-    font-size: 1.5rem;
-}
-
-.subtitle2 {
-    font-size: 1.11rem;
-    text-transform: uppercase;
-}
-
-strong {
-    font-weight: bold;
-}
-
-p {
-    font-size: 1rem;
 }
 
 .body1 {
